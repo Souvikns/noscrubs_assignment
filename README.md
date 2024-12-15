@@ -1,4 +1,4 @@
-# OAuth 2.0 library / 
+# OAuth 2.0 library / NoScrubs Assignment
 
 This library contains a OAuth 2.0 library that runs both on browser and on nodejs.
 
